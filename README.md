@@ -1,42 +1,64 @@
-<h1 align="center">Hi 👋, I'm Ankur</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1531497865144-0464ef8fb9c1?auto=format&fit=crop&w=1350&q=80" alt="Banner" width="100%">
+</p>
 
-- I’m currently working on **Virex - A Virus Scanner using MERN**
-
-- I’m currently learning **Backend, Security, and System Design**
-
-- I’m looking to collaborate on **tech projects and open source**
-
-- Ask me about **React, MongoDB, APIs, or coding problems**
-
-- How to reach me: **ankurkshitijsahai22@gmail.com**
-
-- Fun fact: *I am a really into gym and football*
+<h1 align="center">Hi, I'm Ankur Kshitij Sahai</h1>
 
 ---
 
-### GitHub Stats
+### About Me
+
+I am currently pursuing my B.Tech in Electronics and Communication Engineering. I have a keen interest in working on tech-driven projects that blend web development, embedded systems, and sustainable innovation. My academic and personal projects often reflect my desire to understand systems deeply and solve real-world problems using efficient, scalable solutions.
+
+In addition to my academic pursuits, I am passionate about maintaining a balanced and active lifestyle. I enjoy playing football, which helps build teamwork and quick decision-making, and I regularly go to the gym to stay physically fit and disciplined—traits I carry into my professional and technical work.
+
+---
+
+### Tech Stack
+
+- **Languages**: C++, JavaScript, Python  
+- **Web**: React, Node.js, MongoDB, Express  
+- **Tools & Platforms**: Git, GitHub, Vite, Tailwind CSS, Render  
+- **Hardware/Embedded**: Arduino, Raspberry Pi, IoT Protocols (MQTT, CoAP)
+
+---
+
+
+###  Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-black?logo=react)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-purple?logo=vite)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css)&nbsp;
+![ShadCN UI](https://img.shields.io/badge/-ShadCN-black)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb)
+
+**Tools & Others:**  
+![Git](https://img.shields.io/badge/-Git-black?logo=git)&nbsp;
+![VS Code](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)
+
+---
+
+###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkurDev&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkurDev&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=A-Kshitij-S&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Kshitij-S&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Kshitij-S&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### Let's Connect
 
-<p>
-  <img src="https://img.shields.io/badge/Code-C++-blue?style=flat-square&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-</p>
-
----
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]([[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ankur-kshitij-sahai-b27203257/)](https://www.linkedin.com/in/ankur-kshitij-sahai-b27203257/))
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)]([https://github.com/AnkurDev](https://github.com/A-Kshitij-S))
+- [LinkedIn](https://www.linkedin.com/in/ankur-kshitij-sahai-b27203257/)  
+- [GitHub](https://github.com/A-Kshitij-S)  
