@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://in.pinterest.com/pin/14425661317159143/" alt="Banner" width="100%">
+  <img src="https://i.pinimg.com/1200x/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Ankur Kshitij Sahai</h1>
