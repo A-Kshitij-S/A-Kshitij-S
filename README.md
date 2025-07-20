@@ -9,9 +9,9 @@
 
 ### About Me
 
-I am currently pursuing my B.Tech in Electronics and Communication Engineering. I have a keen interest in working on tech-driven projects that blend web development, embedded systems, and sustainable innovation. My academic and personal projects often reflect my desire to understand systems deeply and solve real-world problems using efficient, scalable solutions.
+I am currently pursuing my B.Tech in Electronics and Communication Engineering. I have a keen interest in working on tech-driven projects that blend web development, embedded systems, and sustainable innovation. My academic and personal projects often reflect my desire to thoroughly understand systems and solve real-world problems using efficient and scalable solutions.
 
-In addition to my academic pursuits, I am passionate about maintaining a balanced and active lifestyle. I enjoy playing football, which helps build teamwork and quick decision-making, and I regularly go to the gym to stay physically fit and disciplined—traits I carry into my professional and technical work.
+In addition to my academic pursuits, I am passionate about maintaining a balanced and active lifestyle. I enjoy playing football, which helps build teamwork and quick decision-making skills, and I regularly visit the gym to stay physically fit and disciplined, traits I carry into my professional and technical work.
 
 ---
 
