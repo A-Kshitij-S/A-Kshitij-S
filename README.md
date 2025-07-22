@@ -45,26 +45,6 @@ In addition to my academic pursuits, I am passionate about maintaining a balance
 
 ---
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Kshitij-S&layout=compact&theme=dark" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Kshitij-S&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Kshitij-S&theme=dark" alt="GitHub Streak" />
-</p>
-
----
-
-##  GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A-Kshitij-S&theme=darkhub&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
----
-
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ankur-kshitij-sahai-b27203257/)  
