@@ -20,7 +20,6 @@ In addition to my academic pursuits, I am passionate about maintaining a balance
 - **Languages**: C++, JavaScript, Python  
 - **Web**: React, Node.js, MongoDB, Express  
 - **Tools & Platforms**: Git, GitHub, Vite, Tailwind CSS, Render  
-- **Hardware/Embedded**: Arduino, Raspberry Pi, IoT Protocols (MQTT, CoAP)
 
 ---
 
